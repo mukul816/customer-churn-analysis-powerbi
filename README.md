@@ -69,7 +69,7 @@ Practical use of Power BI in real-world scenarios
 https://github.com/mukul816/customer-churn-analysis-powerbi/blob/main/Screenshot%202026-04-12%20174610.png
 https://github.com/mukul816/customer-churn-analysis-powerbi/blob/main/Screenshot%202026-04-12%20174625.png
 https://github.com/mukul816/customer-churn-analysis-powerbi/blob/main/Screenshot%202026-04-12%20174637.png
-
+https://github.com/mukul816/customer-churn-analysis-powerbi/blob/main/Screenshot%202026-04-12%20174648.png
 
 # Learning Source
 
