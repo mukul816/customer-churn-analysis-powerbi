@@ -70,6 +70,7 @@ https://github.com/mukul816/customer-churn-analysis-powerbi/blob/main/Screenshot
 https://github.com/mukul816/customer-churn-analysis-powerbi/blob/main/Screenshot%202026-04-12%20174625.png
 https://github.com/mukul816/customer-churn-analysis-powerbi/blob/main/Screenshot%202026-04-12%20174637.png
 https://github.com/mukul816/customer-churn-analysis-powerbi/blob/main/Screenshot%202026-04-12%20174648.png
+https://github.com/mukul816/customer-churn-analysis-powerbi/blob/main/Screenshot%202026-04-12%20175145.png
 
 # Learning Source
 
