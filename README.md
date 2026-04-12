@@ -19,6 +19,7 @@ Power BI Desktop (.pbix) – Dashboard development
 Power Query – Data cleaning & transformation
 DAX – KPIs, measures, and calculated columns
 # Dataset Details
+https://github.com/mukul816/customer-churn-analysis-powerbi/tree/main/Datasets
 
 The dataset includes:
 
