@@ -78,6 +78,6 @@ https://github.com/mukul816/customer-churn-analysis-powerbi/blob/main/Screenshot
 This project is based on a case study from the DataCamp course:
 "Analyzing Customer Churn in Power BI"
 
-👤 Author
+# Author
 
-Mukul Girdhar
+Mukul 
