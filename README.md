@@ -1,23 +1,24 @@
-# Customer Churn Analysis Dashboard | Power BI
-# Project Overview
+# Databel Customer Churn Analysis – Power BI Dashboard
 
-This project presents an end-to-end Customer Churn Analysis using Power BI. The goal is to identify patterns and key drivers behind customer attrition and provide actionable insights to improve customer retention.
+## Project Overview
 
-The dashboard enables interactive exploration of churn behavior across different customer segments such as demographics, subscription types, and service usage.
+This project focuses on analyzing customer churn behavior for Databe using Microsoft Power BI. The dashboard is designed to identify the major factors influencing customer churn and provide insights that help improve customer retention strategies.
 
-# Problem Statement
+The analysis transforms customer data into interactive visualizations and meaningful KPIs that allow management to understand customer behavior, service usage, demographics, and churn patterns.
 
-Customer churn is a major challenge for businesses, especially in the telecom industry. Losing customers directly impacts revenue and growth.
+---
 
-This project answers:
+# Objectives of the Project
 
-Why are customers leaving?
-Which segments are most at risk?
-How can churn be reduced using data insights?
-# Tools & Technologies
-Power BI Desktop (.pbix) – Dashboard development
-Power Query – Data cleaning & transformation
-DAX – KPIs, measures, and calculated columns
+* Analyze customer churn trends and patterns.
+* Identify factors affecting customer retention.
+* Compare churn rates across customer segments.
+* Evaluate the impact of services and subscriptions on churn.
+* Monitor customer demographics and behavior.
+* Support data-driven customer retention strategies.
+
+---
+
 # Dataset Details
 https://github.com/mukul816/customer-churn-analysis-powerbi/tree/main/Datasets
 
@@ -28,56 +29,179 @@ Account information (tenure, contract type)
 Services used (internet, support, add-ons)
 Billing details (monthly charges, payment method)
 Churn status (Yes/No)
-# Dashboard Features
-🔹 1. Overview Page
-Total Customers
-Total Churned Customers
-Churn Rate (%)
-Key KPIs for quick insights
-🔹 2. Customer Segmentation
-Churn by tenure groups
-Churn by contract type
-Churn by payment method
-🔹 3. Service Analysis
-Impact of additional services on churn
-Internet service type vs churn
-Tech support vs churn
-🔹 4. Financial Insights
-Monthly charges vs churn
-Revenue loss due to churn
-🔹 5. Interactive Filters
-Dynamic slicers for deep analysis
-Drill-down capabilities
-# Key Insights
-Customers with short tenure show the highest churn rate
-Month-to-month contracts have significantly higher churn
-Customers with higher monthly charges are more likely to leave
-Lack of tech support and add-on services increases churn probability
-# Business Recommendations
-Introduce incentives for long-term contracts
-Target high-risk customers with retention offers
-Improve customer support services
-Provide bundled services to increase customer engagement
-# Project Impact
 
-This project demonstrates:
-
-Strong data analysis and visualization skills
-Ability to convert data into business insights
-Practical use of Power BI in real-world scenarios
 # Dashboard Preview
 
 https://github.com/mukul816/customer-churn-analysis-powerbi/blob/main/Screenshot%202026-04-12%20174610.png
+
 https://github.com/mukul816/customer-churn-analysis-powerbi/blob/main/Screenshot%202026-04-12%20174625.png
+
 https://github.com/mukul816/customer-churn-analysis-powerbi/blob/main/Screenshot%202026-04-12%20174637.png
+
 https://github.com/mukul816/customer-churn-analysis-powerbi/blob/main/Screenshot%202026-04-12%20174648.png
+
 https://github.com/mukul816/customer-churn-analysis-powerbi/blob/main/Screenshot%202026-04-12%20175145.png
 
-# Learning Source
 
-This project is based on a case study from the DataCamp course:
-"Analyzing Customer Churn in Power BI"
+# Tools & Technologies Used
 
-# Author
+* **Microsoft Power BI** – Dashboard creation and data visualization
+* **Power Query** – Data cleaning and transformation
+* **DAX (Data Analysis Expressions)** – KPI calculations and measures
+* **Customer Dataset** – Source of customer and churn data
 
-Mukul 
+---
+
+# Dashboard Pages Included
+
+## 1. Customer Overview
+
+This section provides a summary of customer demographics and overall customer distribution.
+
+### Key Insights:
+
+* Displays total customers and customer categories.
+* Helps understand customer demographics.
+* Provides an overview of customer base distribution.
+
+---
+
+## 2. Churn Analysis
+
+This dashboard focuses on analyzing customer churn behavior.
+
+### Key Insights:
+
+* Identifies churned and retained customers.
+* Shows churn percentage and customer loss trends.
+* Helps understand the overall churn situation.
+
+---
+
+## 3. Service Analysis
+
+This section analyzes customer usage of company services.
+
+### Key Insights:
+
+* Evaluates which services are associated with higher churn.
+* Helps identify popular and less-used services.
+* Supports service improvement strategies.
+
+---
+
+## 4. Subscription & Contract Analysis
+
+This dashboard examines customer subscription and contract types.
+
+### Key Insights:
+
+* Compares churn rates across contract categories.
+* Identifies whether long-term contracts reduce churn.
+* Helps improve customer subscription strategies.
+
+---
+
+## 5. Payment Method Analysis
+
+This section analyzes customer payment behavior.
+
+### Key Insights:
+
+* Identifies payment methods linked with higher churn.
+* Helps understand customer payment preferences.
+* Supports improvements in payment experience.
+
+---
+
+## 6. Revenue & Customer Value
+
+This dashboard evaluates customer contribution to revenue.
+
+### Key Insights:
+
+* Tracks customer revenue generation.
+* Identifies high-value customers.
+* Helps analyze customer lifetime value.
+
+---
+
+## 7. KPIs Dashboard
+
+This section presents important customer and churn KPIs.
+
+### Key Insights:
+
+* Displays key business indicators in one place.
+* Helps management monitor retention performance.
+* Supports quick and effective decision-making.
+
+---
+
+# Major Conclusions from the Analysis
+
+Based on the dashboard analysis, the following conclusions can be drawn:
+
+1. **Customer Churn is Influenced by Multiple Factors**
+   Customer churn is affected by contract type, payment method, services used, and customer engagement.
+
+2. **Short-Term Customers Have Higher Churn Rates**
+   Customers with shorter contracts or lower engagement are more likely to leave the company.
+
+3. **Service Quality Impacts Retention**
+   Customers using certain services show higher churn rates, indicating areas where service improvements are needed.
+
+4. **Payment Preferences Affect Customer Experience**
+   Certain payment methods are associated with increased churn, suggesting possible customer convenience issues.
+
+5. **High-Value Customers Need Special Attention**
+   Retaining high-revenue customers is essential for maintaining long-term profitability.
+
+6. **KPIs Help Track Customer Retention Performance**
+   Real-time KPIs make it easier to monitor customer behavior and identify retention risks quickly.
+
+7. **Data Visualization Simplifies Churn Analysis**
+   Interactive dashboards help management understand complex customer data more efficiently.
+
+---
+
+# Business Recommendations
+
+* Improve customer retention strategies for high-risk customers.
+* Encourage long-term subscriptions and contracts.
+* Enhance service quality and customer support.
+* Simplify payment processes for better customer experience.
+* Focus on retaining high-value customers.
+* Use KPI dashboards for continuous churn monitoring.
+
+---
+
+# Benefits of the Dashboard
+
+* Better understanding of customer behavior
+* Improved customer retention planning
+* Faster identification of churn risks
+* Enhanced business decision-making
+* Improved reporting and visualization
+
+---
+
+# Future Enhancements
+
+The dashboard can be further improved by:
+
+* Adding predictive churn modeling
+* Integrating real-time customer databases
+* Including customer sentiment analysis
+* Developing advanced retention forecasting
+* Creating mobile-friendly dashboard versions
+
+---
+
+# Conclusion
+
+The Databel Customer Churn Analysis Dashboard successfully demonstrates how Power BI can be used to analyze customer behavior and churn patterns effectively. The dashboard provides valuable insights into customer retention, service usage, contracts, payment methods, and revenue contribution.
+
+This project highlights the importance of business intelligence and data analytics in improving customer retention strategies, reducing churn, and supporting long-term business growth.
+
+
